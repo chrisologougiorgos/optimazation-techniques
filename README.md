@@ -48,3 +48,13 @@ Includes:
 ## 💡 Note
 Each project folder contains a `.pdf` report with the problem statement, implementation details, convergence plots, and evaluation. MATLAB source code is included for all implementations.
 
+## 👨‍🎓 Author
+
+**Georgios Chrysologou**  
+Undergraduate student, 5th year  
+Department of Electrical and Computer Engineering  
+Aristotle University of Thessaloniki
+
+---
+
+
