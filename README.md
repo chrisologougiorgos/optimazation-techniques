@@ -1,5 +1,5 @@
 
-# Optimization Techniques – University Projects
+# Optimization Techniques – ECE AUTH 2024-2025
 
 This repository contains three academic projects developed as part of the course **"Optimization Techniques"** during the 7th semester of the undergraduate program at the School of Electrical and Computer Engineering, Aristotle University of Thessaloniki (AUTH). All projects are implemented in MATLAB and involve both unconstrained and constrained optimization methods.
 
